@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! Bem vindo(a) ao README da Meru! (⁠─⁠.⁠─⁠|⁠|⁠）
 
 <!--
-**meruismissing/meruismissing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**meruismissing** na verdade é uma pessoa! E ela se chama Melissa! Ela tem uma grande personalidade e quer aprender a codar (ela vai editar isso quando estiver aprendendo **mesmo**)
 
-Here are some ideas to get you started:
+๑ Algumas coisas sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💗 No momento, sou estudante!
+- 🩷 Vou aprender Python
+- ❤️ Eu gostaria de criar um **site**!
+- 🧡 Eu pretendo trabalhar com programação no futuro.
+- 💛 Me pergunte sobre: jogos, filmes, qualquer coisa na verdade.
+- 💚 Meus jogos favoritos são: Red Dead Redemption 2, Undertale, ENA Dream BBQ, Fortnite e GTA V!
+- 🩵 Eu uso qualquer pronome (exceto neutro)
+- 💙 Um fato curioso: sou uma pessoa bem difícil de lidar sob pressão, mas dou meu melhor para ser produtiva.
 -->
