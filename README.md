@@ -4,15 +4,17 @@
 
 ๑ Algumas coisas sobre mim
 
-- 💗 No momento, sou estudante!
-- 🩷 Vou aprender Python
-- ❤️ Eu gostaria de criar um **site**!
-- 🧡 Eu pretendo trabalhar com programação no futuro.
-- 💛 Me pergunte sobre: jogos, filmes, qualquer coisa na verdade.
-- 💚 Meus jogos favoritos são: Red Dead Redemption 2, Undertale, ENA Dream BBQ, Fortnite e GTA V!
-- 🩵 Eu uso qualquer pronome (exceto neutro)
-- 💙 Um fato curioso: sou uma pessoa bem difícil de lidar sob pressão, mas dou meu melhor para ser produtiva.
-  
+ㆍ🌈  ㆍ— — — — — — — — —
+- ꒰ 💗 ꒱ 　No momento, sou estudante!
+- ꒰ 🩷 ꒱ 　Vou aprender Python!
+- ꒰ ❤️ ꒱ 　Eu gostaria de criar um **site**!
+- ꒰ 🧡 ꒱ 　Eu pretendo trabalhar com programação no futuro.
+- ꒰ 💛 ꒱ 　Me pergunte sobre: jogos, filmes, qualquer coisa na verdade.
+- ꒰ 💚 ꒱ 　Meus jogos favoritos são: Red Dead Redemption 2, Undertale, ENA Dream BBQ, Fortnite e GTA V!
+- ꒰ 🩵 ꒱ 　Eu uso qualquer pronome (exceto neutro)　
+- ꒰ 💙 ꒱ 　Um fato curioso: sou uma pessoa bem difícil de lidar sob pressão, mas dou meu melhor para ser produtiva.
+ — — — — — — — — —ㆍ❄️  ㆍ
+
   ---
   
  <div align="center">
