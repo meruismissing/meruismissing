@@ -20,3 +20,11 @@
  <div align="center">
   <img src="src/Untitled286_20260803150228.jpg" alt="Tabela de Preços" width="683" height="911">
 </div>
+
+
+ ---
+
+ | Projetos atuais  | Quantia investida |
+| ------------- | ------------- |
+| Meru's Shop  | Gastos R$12,00 estimadamente  |
+| Dotterice  | Ganhei R$7,00  |
