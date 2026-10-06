@@ -1,3 +1,5 @@
+<img src="src/Untitled286_20260803150228.jpg" alt="Tabela de Preços" width="683" height="911">
+
 ## Olá! Bem vindo(a) ao README da Meru! (⁠─⁠.⁠─⁠|⁠|⁠）
 
 <!--
