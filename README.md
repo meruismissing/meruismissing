@@ -12,7 +12,7 @@
 - ꒰ 💛 ꒱ 　Me pergunte sobre: jogos, filmes, qualquer coisa na verdade.
 - ꒰ 💚 ꒱ 　Meus jogos favoritos são: Red Dead Redemption 2, Undertale, ENA Dream BBQ, Fortnite e GTA V!
 - ꒰ 🩵 ꒱ 　Eu uso qualquer pronome (exceto neutro)　
-- ꒰ 💙 ꒱ 　Um fato curioso: sou uma pessoa bem difícil de lidar sob pressão, mas dou meu melhor para ser produtiva.
+- ꒰ 💙 ꒱ 　Um fato curioso: sou uma pessoa bem difícil de lidar sob pressão, mas dou meu melhor para ser produtiva. [﹒๑drive de exemplos๑﹒](https://drive.google.com/drive/folders/179rKn8_EBwZFB8gA9IvbqxRhCawP9afa)
  — — — — — — — — —ㆍ❄️  ㆍ
 
   ---
