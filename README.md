@@ -34,5 +34,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vmplayer&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" alt="Estatísticas das linguagens mais usadas" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=meruismissing&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" alt="Estatísticas das linguagens mais usadas" />
 </div>
