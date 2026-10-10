@@ -15,20 +15,25 @@
 - ꒰ 💙 ꒱ 　Um fato curioso: sou uma pessoa bem difícil de lidar sob pressão, mas dou meu melhor para ser produtiva. [﹒๑drive de exemplos๑﹒](https://drive.google.com/drive/folders/179rKn8_EBwZFB8gA9IvbqxRhCawP9afa)
  — — — — — — — — —ㆍ❄️  ㆍ
 
- ---
+---
   
  <div align="center">
   <img src="src/Untitled378_20261008195037.jpeg" alt="Tabela de Preços" width="683" height="911">
 </div>
 
-
-
- ---
-| Projetos atuais  | Quantia investida |
-| ------------- | ------------- |
-| Meru's Shop  | Gastos R$12,00 estimadamente  |
-| Dotterice  | Ganhei R$7,00  |
 ---
+
+<div align="center">
+ 
+ | Projetos atuais  | Quantia investida             |
+ | :--------------- | :---------------------------: |
+ | Meru's Shop      | Gastos R$12,00 estimadamente  |
+ | Dotterice        | Ganhei R$7,00                 |
+ 
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
