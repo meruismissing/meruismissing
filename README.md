@@ -6,7 +6,7 @@
 
 ㆍ🌈  ㆍ— — — — — — — — —
 - ꒰ 💗 ꒱ 　No momento, sou estudante!
-- ꒰ 🩷 ꒱ 　Vou aprender Python!
+- ꒰ 🩷 ꒱ 　Estou estudando Python!
 - ꒰ ❤️ ꒱ 　Eu gostaria de criar um **site**!
 - ꒰ 🧡 ꒱ 　Eu pretendo trabalhar com programação no futuro.
 - ꒰ 💛 ꒱ 　Me pergunte sobre: jogos, filmes, qualquer coisa na verdade.
