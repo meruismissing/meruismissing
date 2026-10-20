@@ -28,7 +28,7 @@
  | Projetos atuais  | Quantia investida             |
  | :--------------- | :---------------------------: |
  | Meru's Shop      | Gastos R$12,00 estimadamente  |
- | Dotterice        | Ganhei R$7,00                 |
+ | Dotterice        | Ganhei R$12,00                 |
  
 </div>
 
