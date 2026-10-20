@@ -41,7 +41,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meruismissing/meruismissing/output/acrade-contributions.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meruismissing/meruismissing/output/acrade-contributions.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/meruismissing/meruismissing/output/acrade-contributions.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meruismissing/meruismissing/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meruismissing/meruismissing/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/meruismissing/meruismissing/output/pacman-contribution-graph.svg">
 </picture>
