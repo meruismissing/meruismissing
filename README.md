@@ -40,9 +40,8 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=meruismissing&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" alt="Estatísticas das linguagens mais usadas" />
 </div>
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meruismissing/meruismissing/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meruismissing/meruismissing/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meruismissing/meruismissing/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meruismissing/meruismissing/output/acrade-contributions.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meruismissing/meruismissing/output/acrade-contributions.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/meruismissing/meruismissing/output/acrade-contributions.svg">
 </picture>
