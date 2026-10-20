@@ -23,6 +23,16 @@
 
 ---
 
+<details>
+  <summary>📸 <b>Clique para ver uns exemplos, hehe <3 </b></summary>
+  <br>
+ <img src="./src/La belle Odette NF2U.jpg" width="400">
+  <img src="./src/Odette swanpriincess NF2U.jpg" width="400">
+   <img src="./src/DTRC banner NF2U.jpg" width="400">
+</details>
+
+---
+
 <div align="center">
  
  | Projetos atuais  | Quantia investida             |
