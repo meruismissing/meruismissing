@@ -15,6 +15,13 @@
 - ꒰ 💙 ꒱ 　Um fato curioso: sou uma pessoa bem difícil de lidar sob pressão, mas dou meu melhor para ser produtiva. [﹒๑drive de exemplos๑﹒](https://drive.google.com/drive/folders/179rKn8_EBwZFB8gA9IvbqxRhCawP9afa)
  — — — — — — — — —ㆍ❄️  ㆍ
 
+_ _ 　　　　🗕    🗗   🗙
+⌨︎﹒**Entretenimento.txt**
+⌦﹕RDR2 . . . Undertale
+﹒__Kamisama Hajimemashita__
+﹒__Kaguya Sama: Love Is War__
+
+
 ---
   
  <div align="center">
